@@ -1,6 +1,10 @@
 # ecstatic-issues
 Issues tracker for the minecraft LOD mod Ecstatic. Please refer to the curseforge page at https://www.curseforge.com/minecraft/mc-mods/ecstatic.
 
+Or the Modrinth at https://modrinth.com/mod/ecstatic
+
+Or the source at https://github.com/Wizardtastic/Ecstatic
+
 # Reporting a Bug
 Before opening a new issue, please use the search bar to see if your bug has already been reported.
 
