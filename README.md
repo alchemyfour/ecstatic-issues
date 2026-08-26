@@ -1,4 +1,7 @@
 # ecstatic-issues
+
+**This repo is now deprecated**, please visit the issues tracker in the actual repo
+
 Issues tracker for the minecraft LOD mod Ecstatic. Please refer to the curseforge page at https://www.curseforge.com/minecraft/mc-mods/ecstatic.
 
 Or the Modrinth at https://modrinth.com/mod/ecstatic
